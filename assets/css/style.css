@@ -1,1 +1,32 @@
-/* Holiii otra vez */
+ *{
+	font-family: 'Merriweather Sans', sans-serif;
+}
+.news-logo{
+	margin-bottom: 20px;
+}
+.news-logo span{
+	color: red;
+}
+.navbar-default , .navbar-collapse{
+	background-color: transparent;
+	border: none;
+	border-color: none;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+	border-color: red;
+}
+.mi-navbar{
+	padding: 20px 0	;
+	margin: 0 auto;
+	border-bottom: 2px solid red;
+}
+
+.btn-nav{
+	background-color: red;
+	color: #fff;
+	border: none;
+	padding: 8px 25px;
+}
+.hidden-search{
+	display: none;
+}
